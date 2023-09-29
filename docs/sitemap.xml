@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://javiidoce.github.io/prueba_hugo_def/main/</loc>
+    <loc>https://javiidoce.github.io/prueba_hugo_def/</loc>
+    <lastmod>2023-09-29T19:09:05+02:00</lastmod>
+  </url><url>
+    <loc>https://javiidoce.github.io/prueba_hugo_def/posts/</loc>
+    <lastmod>2023-09-29T19:09:05+02:00</lastmod>
+  </url><url>
+    <loc>https://javiidoce.github.io/prueba_hugo_def/posts/primer_post/</loc>
+    <lastmod>2023-09-29T19:09:05+02:00</lastmod>
+  </url><url>
+    <loc>https://javiidoce.github.io/prueba_hugo_def/posts/segundo_post/</loc>
     <lastmod>2023-09-29T19:09:05+02:00</lastmod>
   </url><url>
     <loc>https://javiidoce.github.io/prueba_hugo_def/categories/</loc>
-  </url><url>
-    <loc>https://javiidoce.github.io/prueba_hugo_def/</loc>
   </url><url>
     <loc>https://javiidoce.github.io/prueba_hugo_def/tags/</loc>
   </url>

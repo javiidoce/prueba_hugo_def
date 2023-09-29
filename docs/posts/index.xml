@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mi página de Hugo</title>
-    <link>https://javiidoce.github.io/prueba_hugo_def/</link>
-    <description>Recent content on Mi página de Hugo</description>
+    <title>Posts on Mi página de Hugo</title>
+    <link>https://javiidoce.github.io/prueba_hugo_def/posts/</link>
+    <description>Recent content in Posts on Mi página de Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 19:09:05 +0200</lastBuildDate><atom:link href="https://javiidoce.github.io/prueba_hugo_def/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Sep 2023 19:09:05 +0200</lastBuildDate><atom:link href="https://javiidoce.github.io/prueba_hugo_def/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
       <link>https://javiidoce.github.io/prueba_hugo_def/posts/primer_post/</link>
