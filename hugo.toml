@@ -6,6 +6,9 @@ theme = 'tale-hugo'
 [params]
     css = ["css/estilos.css"]
 
+[author]
+    name = "javiidoce"
+
 [menu]
     [[menu.main]]
     identifier = "about"
