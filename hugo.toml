@@ -2,3 +2,20 @@ baseURL = 'https://javiidoce.github.io/prueba_hugo_def/'
 languageCode = 'en-us'
 title = 'Mi página de Hugo'
 theme = 'tale-hugo'
+
+[params]
+    css = ["css/estilos.css"]
+
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/main"
+    weight = 0
+    [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/main"
+    weight = 0
